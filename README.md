@@ -14,7 +14,7 @@ router.get('/:id',(req,res)=>{
     })
 })
 ``` 
-En este código (enspoint) se consulta la tabla en concreto de Actores, y se busca por su ID
+En este código (endpoint) se consulta la tabla en concreto de Actores, y se busca por su ID
 
 
 
@@ -36,6 +36,6 @@ previamente han de ser instaladas las siguientes dependencias
 
 
 
-## Autores ✒️
+## Autor ✒️
 
 * **Iñigo Vadillo Ruiz** -  - [Vadithalion (github)](https://github.com/Vadithalion)
